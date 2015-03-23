@@ -1,0 +1,24 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Steffan 'Ruirize' James",
+    "longName": "Ribbow",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Ribbow",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "57d5a5bd-d9e7-4869-b0f0-c6db0385fda5",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
